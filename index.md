@@ -5,7 +5,7 @@ Generate documents in multiple formats including PDF, PNG, GIF, and JPEG.
 
 [GitHub](https://github.com/AdamMoller/multiformat)
 
-**technology:*** Python, ReportLab, Pillow
+**technology:** Python, ReportLab, Pillow
 
 When dynamically generating PDF documents, thumbnail or preview images are sometimes required. With this package documents are designed using a single "Document" class that can generate documents in PDF, PNG, GIF, or JPEG format. The ReportLab open-source PDF Toolkit and Pillow are utilized for PDF and image generation.
 
