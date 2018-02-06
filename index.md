@@ -11,6 +11,7 @@ When dynamically generating PDF documents, thumbnail or preview images are somet
 **technology:** Python, ReportLab, Pillow
 <br/>
 <br/>
+<br/>
 ## AR Circuits
 Augmented reality electric circuit kit app
 
@@ -25,10 +26,11 @@ With the AR Circuits app you can practice building circuits without an electroni
 <br/>
 <br/>
 <br/>
+<br/>
 # Contact
 * * *
 **GitHub:** [@AdamMoller](https://github.com/AdamMoller/)
 
-**Twitter:** [@AdamMoller2](https://twitter.com/AdamMoller2)
-
 **LinkedIn:** [in/adam-moller/](https://www.linkedin.com/in/adam-moller)
+
+**Twitter:** [@AdamMoller2](https://twitter.com/AdamMoller2)
