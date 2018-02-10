@@ -20,9 +20,30 @@ Augmented reality electric circuit kit app
 [arcircuits.com](http://arcircuits.com)
 
 
-With the AR Circuits app you can practice building circuits without an electronics kit. Components can be printed on your home printer and brought to life using a mobile device and augmented reality technology.
+The AR Circuits application simulates an electric circuits kit using printable component cards and augmented reality technology. Students can freely design circuits by arranging printed component cards and interact with them using the app and camera on their mobile device. The cards appear as functioning electrical components on the device screen. It produces realistic simulations by using nodal analysis to calculate the voltage in each portion of the circuit. This allows students to experiment building circuits just as they would with a physical circuit kit.
 
-**technology:** Unity, C#, Vuforia
+**technology:** C#, Unity, Vuforia, Blender, HTML, CSS
+<br/>
+<br/>
+<br/>
+## WikiFootprints
+Collaboratively edited public wiki for product carbon footprints
+
+This project was a collaboratively edited compendium of product environmental impacts. Objective information on the environmental impact of products and services could be contributed to the wiki. Information included detailed carbon emissions, water usage, energy consumption, and material use. The data could be viewed, compared, and edited through the website or accessed through a public API. An archive of the main page is available on [archive.org](https://web.archive.org/web/20170709071404/http://wikifootprints.org/en/Main_Page).
+
+**technology:** PHP, MediaWiki, Semantic MediaWiki
+<br/>
+<br/>
+<br/>
+<br/>
+## STEM Sheets
+Customizable flashcards and worksheets
+
+[website](http://stemsheets.com/)
+
+With the STEM Sheets website parents and teachers can customize educational resources and download them in PDF format. An accurate preview of each resource is updated and displayed on the website as it is being customized. The resources can then be downloaded as a PDF for printing. Most worksheets are randomly generated using algorithms to help ensure that the documents created are unique. Previews are displayed using the SVG.js library and the PDF files are generated using the TCPDF library.
+
+**technology:** PHP, Javascript, HTML, CSS, SVG.js, jQuery, Bootstrap
 <br/>
 <br/>
 <br/>
