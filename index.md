@@ -1,4 +1,4 @@
-[Contact](#Contact) | [Projects](#Projects)
+[Contact](#contact) | [Projects](#projects)
 * * *
 <br/>
 <br/>
