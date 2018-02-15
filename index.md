@@ -1,3 +1,7 @@
+[Contact](#Contact) | [Projects](#Projects)
+* * *
+<br/>
+<br/>
 # Projects
 * * *
 ## Multiformat
@@ -50,6 +54,8 @@ With the STEM Sheets website parents and teachers can customize educational reso
 <br/>
 # Contact
 * * *
+**e-mail**: <dev7777888@gmail.com>
+
 **GitHub:** [@AdamMoller](https://github.com/AdamMoller/)
 
 **LinkedIn:** [in/adam-moller/](https://www.linkedin.com/in/adam-moller)
