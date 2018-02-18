@@ -59,4 +59,6 @@ With the STEM Sheets website parents and teachers can customize educational reso
 
 **LinkedIn:** [in/adam-moller/](https://www.linkedin.com/in/adam-moller)
 
+**Stack Overflow:** [user:9356981](https://stackoverflow.com/users/9356981/adam-moller)
+
 **Twitter:** [@AdamMoller2](https://twitter.com/AdamMoller2)
