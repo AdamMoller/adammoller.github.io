@@ -1,6 +1,6 @@
+<p align="center">
 [Contact](#contact) | [Projects](#projects)
-* * *
-<br/>
+</p>
 <br/>
 # Projects
 * * *
