@@ -1,4 +1,4 @@
-[Contact](#contact) | [Projects](#projects)
+[Contact](#contact) | [Education](#education) | [Projects](#projects)
 <br/>
 <br/>
 # Projects
@@ -47,6 +47,18 @@ Customizable flashcards and worksheets
 With the STEM Sheets website parents and teachers can customize educational resources and download them in PDF format. An accurate preview of each resource is updated and displayed on the website as it is being customized. The resources can then be downloaded as a PDF for printing. Most worksheets are randomly generated using algorithms to help ensure that the documents created are unique. Previews are displayed using the SVG.js library and the PDF files are generated using the TCPDF library.
 
 **technology:** PHP, Javascript, HTML, CSS, SVG.js, jQuery, Bootstrap
+<br/>
+<br/>
+<br/>
+<br/>
+# Education
+* * *
+## Doctor of Pharmacy
+Samford University 2005-2009
+
+Developed a Palm-based clinical decision support system and evaluated its utilization in the clinical setting.
+
+
 <br/>
 <br/>
 <br/>
