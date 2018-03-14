@@ -4,7 +4,7 @@
 # Projects
 * * *
 ## Multiformat
-Generate documents in multiple formats including PDF, PNG, GIF, and JPEG.
+2018 - Generate documents in multiple formats including PDF, PNG, GIF, and JPEG.
 
 [GitHub](https://github.com/AdamMoller/multiformat)
 
@@ -16,7 +16,7 @@ When dynamically generating vector and text-based PDF documents, thumbnail or pr
 <br/>
 <br/>
 ## AR Circuits
-Augmented reality electric circuit kit app
+2016 - Augmented reality electric circuit kit app
 
 [App Store](https://itunes.apple.com/us/app/ar-circuits-augmented-reality-electric-circuit-kit/id1078510835) |
 [Google Play](https://play.google.com/store/apps/details?id=com.ExplorentalLLC.arCircuits) |
@@ -30,7 +30,7 @@ The AR Circuits application simulates an electric circuits kit using printable c
 <br/>
 <br/>
 ## WikiFootprints
-Collaboratively edited public wiki for product carbon footprints
+2016 - Collaboratively edited public wiki for product carbon footprints
 
 This project was a collaboratively edited compendium of product environmental impacts. Objective information on the environmental impact of products and services could be contributed to the wiki. Information included detailed carbon emissions, water usage, energy consumption, and material use. The data could be viewed, compared, and edited through the website or accessed through a public API. An archive of the main page is available on [archive.org](https://web.archive.org/web/20170709071404/http://wikifootprints.org/en/Main_Page).
 
@@ -40,7 +40,7 @@ This project was a collaboratively edited compendium of product environmental im
 <br/>
 <br/>
 ## STEM Sheets
-Customizable flashcards and worksheets
+2014 - Customizable flashcards and worksheets
 
 [website](http://stemsheets.com/)
 
