@@ -1,6 +1,20 @@
 [Contact](#contact) | [Education](#education) | [Projects](#projects)
 <br/>
 <br/>
+# Contact
+* * *
+**e-mail**: <dev7777888@gmail.com>
+
+**GitHub:** [@AdamMoller](https://github.com/AdamMoller/)
+
+**LinkedIn:** [in/adam-moller/](https://www.linkedin.com/in/adam-moller)
+
+**Stack Overflow:** [user:9356981](https://stackoverflow.com/users/9356981/adam-moller)
+
+<br/>
+<br/>
+<br/>
+<br/>
 # Projects
 * * *
 ## Multiformat
@@ -61,16 +75,3 @@ Developed a Palm-based clinical decision support system and evaluated its utiliz
 
 <br/>
 <br/>
-<br/>
-<br/>
-# Contact
-* * *
-**e-mail**: <dev7777888@gmail.com>
-
-**GitHub:** [@AdamMoller](https://github.com/AdamMoller/)
-
-**LinkedIn:** [in/adam-moller/](https://www.linkedin.com/in/adam-moller)
-
-**Stack Overflow:** [user:9356981](https://stackoverflow.com/users/9356981/adam-moller)
-
-**Twitter:** [@AdamMoller2](https://twitter.com/AdamMoller2)
