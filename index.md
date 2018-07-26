@@ -32,8 +32,6 @@ When dynamically generating vector and text-based PDF documents, thumbnail or pr
 ## AR Circuits
 2016 - Augmented reality electric circuit kit app
 
-[App Store](https://itunes.apple.com/us/app/ar-circuits-augmented-reality-electric-circuit-kit/id1078510835) |
-[Google Play](https://play.google.com/store/apps/details?id=com.ExplorentalLLC.arCircuits) |
 [arcircuits.com](http://arcircuits.com)
 
 
