@@ -14,7 +14,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 # Experience
 * * *
@@ -26,8 +25,6 @@ JULY 2021 - PRESENT
 My primary role is to support the admissions and marketing departments with reporting and data analysis. Responsibilities include building and supporting datasets and reports in SQL Server Reporting Services (SSRS) and Power BI; compiling and distributing weekly reports; maintaining CRM reports, views, and dashboards; providing technical support to the CRM administrators
 
 <br/>
-<br/>
-<br/>
 
 ## Web Systems Administrator
 *Galen College of Nursing, Louisville, KY (Hybrid)*
@@ -36,8 +33,6 @@ SEPTEMBER 2018 - JULY 2021
 
 Administered and provided in-person and remote support for web applications, including migration from Salesforce to Microsoft Dynamics. Trained end-users; engaged in process improvement; documented processes; developed reports, dashboards, and workflows
 
-<br/>
-<br/>
 <br/>
 
 ## IT Support Specialist
@@ -50,7 +45,6 @@ Provided remote third-party software support to multiple organizations
 <br/>
 <br/>
 <br/>
-<br/>
 
 # Education
 * * *
@@ -60,7 +54,6 @@ AUGUST 2005 - MAY 2009
 ## Kentucky Community and Technical College - Paducah, KY 
 MAY 2003 - AUGUST 2005
 
-<br/>
 <br/>
 <br/>
 <br/>
