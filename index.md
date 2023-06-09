@@ -1,9 +1,9 @@
-[Contact](#contact) | [Education](#education) | [Projects](#projects)
+[Contact](#contact) | [Experience](#experience) | [Education](#education) | [Skills](#skills)
 <br/>
 <br/>
 # Contact
 * * *
-**e-mail**: <dev7777888@gmail.com>
+**E-mail**: <adam7777888@gmail.com>
 
 **GitHub:** [@AdamMoller](https://github.com/AdamMoller/)
 
@@ -15,61 +15,65 @@
 <br/>
 <br/>
 <br/>
-# Projects
+
+# Experience
 * * *
-## Multiformat
-2018 - Generate documents in multiple formats including PDF, PNG, GIF, and JPEG.
+## Admissions Data Analyst
+*Galen College of Nursing, Louisville, KY (Remote)*
 
-[GitHub](https://github.com/AdamMoller/multiformat)
+JULY 2021 - PRESENT
 
+My primary role is to support the admissions and marketing departments with reporting and data analysis. Responsibilities include building and supporting datasets and reports in SQL Server Reporting Services (SSRS) and Power BI; compiling and distributing weekly reports; maintaining CRM reports, views, and dashboards; providing technical support to the CRM administrators
 
-When dynamically generating vector and text-based PDF documents, thumbnail or preview images are sometimes required. With this package, documents are designed using a single "Document" class that can generate documents in PDF, PNG, GIF, or JPEG format. The ReportLab open-source PDF Toolkit and Pillow are utilized for PDF and image generation. Generating PDF documents using ReportLab produces a superior vector and text-based document when compared to the raster-based PDF documents that can be created with Pillow.
+<br/>
+<br/>
+<br/>
 
-**technology:** Python, ReportLab, Pillow, pytest
-<br/>
-<br/>
-<br/>
-## AR Circuits
-2016 - Augmented reality electric circuit kit app
+## Web Systems Administrator
+*Galen College of Nursing, Louisville, KY (Hybrid)*
 
-[arcircuits.com](http://arcircuits.com)
+SEPTEMBER 2018 - JULY 2021
 
+Administered and provided in-person and remote support for web applications, including migration from Salesforce to Microsoft Dynamics. Trained end-users; engaged in process improvement; documented processes; developed reports, dashboards, and workflows
 
-The AR Circuits application simulates an electric circuits kit using printable component cards and augmented reality technology. Students can freely design circuits by arranging printed component cards and interact with them using the app and camera on their mobile device. The cards appear as functioning electrical components on the device screen. It produces realistic simulations by using nodal analysis to calculate the voltage in each portion of the circuit. This allows students to experiment building circuits just as they would with a physical circuit kit.
+<br/>
+<br/>
+<br/>
 
-**technology:** C#, Unity, Vuforia, Blender, HTML, CSS
-<br/>
-<br/>
-<br/>
-## WikiFootprints
-2016 - Collaboratively edited public wiki for product carbon footprints
+## IT Support Specialist
+*Contract, Philadelphia, PA (Remote)*
 
-This project was a collaboratively edited compendium of product environmental impacts. Objective information on the environmental impact of products and services could be contributed to the wiki. Information included detailed carbon emissions, water usage, energy consumption, and material use. The data could be viewed, compared, and edited through the website or accessed through a public API. An archive of the main page is available on [archive.org](https://web.archive.org/web/20170709071404/http://wikifootprints.org/en/Main_Page).
+MAY 2018 -  SEPTEMBER 2018
 
-**technology:** PHP, MediaWiki, Semantic MediaWiki
-<br/>
-<br/>
-<br/>
-<br/>
-## STEM Sheets
-2014 - Customizable flashcards and worksheets
+Provided remote third-party software support to multiple organizations
 
-[website](http://stemsheets.com/)
+<br/>
+<br/>
+<br/>
+<br/>
 
-With the STEM Sheets website parents and teachers can customize educational resources and download them in PDF format. An accurate preview of each resource is updated and displayed on the website as it is being customized. The resources can then be downloaded as a PDF for printing. Most worksheets are randomly generated using algorithms to help ensure that the documents created are unique. Previews are displayed using the SVG.js library and the PDF files are generated using the TCPDF library.
-
-**technology:** PHP, Javascript, HTML, CSS, SVG.js, jQuery, Bootstrap
-<br/>
-<br/>
-<br/>
-<br/>
 # Education
 * * *
-## Doctor of Pharmacy
-Samford University 2005-2009
+## Samford University, Birmingham, AL - Professional Doctorate
+AUGUST 2005 - MAY 2009
 
-Developed a Palm-based clinical decision support system and evaluated its utilization in the clinical setting.
+## Kentucky Community and Technical College - Paducah, KY 
+MAY 2003 - AUGUST 2005
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+# Skills
+-Power BI
+-DAX
+-SQL Server Reporting Services 
+-SQL
+-Microsoft Dynamics
+-Python
+-HTML/CSS
+-JavaScript
 
 <br/>
 <br/>
