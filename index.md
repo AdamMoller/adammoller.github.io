@@ -66,14 +66,14 @@ MAY 2003 - AUGUST 2005
 <br/>
 
 # Skills
--Power BI
--DAX
--SQL Server Reporting Services 
--SQL
--Microsoft Dynamics
--Python
--HTML/CSS
--JavaScript
+- Power BI
+- DAX
+- SQL Server Reporting Services 
+- SQL
+- Microsoft Dynamics
+- Python
+- HTML/CSS
+- JavaScript
 
 <br/>
 <br/>
